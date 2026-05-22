@@ -1,0 +1,17 @@
+# Not pushing data, has large datasets
+/data/cleaned
+/data/raw
+
+# venv
+/DevSalaryVenv
+
+# Environment variables
+.env
+
+# streamlit
+.streamlit/secrets.toml
+
+#models
+models/
+*.pkl
+*.model
